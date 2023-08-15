@@ -6,7 +6,7 @@ using Microsoft.EntityFrameworkCore;
 namespace Persistence;
 public class ApiIncidencesContext : DbContext
 {
-    protected ApiIncidencesContext(DbContextOptions<ApiIncidencesContext> options):base(options){}
+    public ApiIncidencesContext(DbContextOptions<ApiIncidencesContext> options):base(options){}
 
     public DbSet<City> Cities { get; set; }
     public DbSet<Classroom> Classrooms { get; set; }

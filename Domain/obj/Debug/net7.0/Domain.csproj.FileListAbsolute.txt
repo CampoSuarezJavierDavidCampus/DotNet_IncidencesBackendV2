@@ -1,0 +1,12 @@
+/home/skylab-102/Downloads/IncidenciasApp/Domain/bin/Debug/net7.0/Domain.deps.json
+/home/skylab-102/Downloads/IncidenciasApp/Domain/bin/Debug/net7.0/Domain.dll
+/home/skylab-102/Downloads/IncidenciasApp/Domain/bin/Debug/net7.0/Domain.pdb
+/home/skylab-102/Downloads/IncidenciasApp/Domain/obj/Debug/net7.0/Domain.csproj.AssemblyReference.cache
+/home/skylab-102/Downloads/IncidenciasApp/Domain/obj/Debug/net7.0/Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/skylab-102/Downloads/IncidenciasApp/Domain/obj/Debug/net7.0/Domain.AssemblyInfoInputs.cache
+/home/skylab-102/Downloads/IncidenciasApp/Domain/obj/Debug/net7.0/Domain.AssemblyInfo.cs
+/home/skylab-102/Downloads/IncidenciasApp/Domain/obj/Debug/net7.0/Domain.csproj.CoreCompileInputs.cache
+/home/skylab-102/Downloads/IncidenciasApp/Domain/obj/Debug/net7.0/Domain.dll
+/home/skylab-102/Downloads/IncidenciasApp/Domain/obj/Debug/net7.0/refint/Domain.dll
+/home/skylab-102/Downloads/IncidenciasApp/Domain/obj/Debug/net7.0/Domain.pdb
+/home/skylab-102/Downloads/IncidenciasApp/Domain/obj/Debug/net7.0/ref/Domain.dll
