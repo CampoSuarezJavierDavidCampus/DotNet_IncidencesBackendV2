@@ -1,5 +1,5 @@
 namespace Domain.Entities;
-public class Country{
+public class Country: BaseEntity{
     public int IdCountry { get; set; }    
     public string? NameCountry { get; set; }
     

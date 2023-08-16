@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/home/skylab-102/Downloads/IncidenciasApp/Application/Application.csproj": {}
+    "/home/apolM01-045/Music/NetCoreProyect-Incidences-02/Application/Application.csproj": {}
   },
   "projects": {
-    "/home/skylab-102/Downloads/IncidenciasApp/Application/Application.csproj": {
+    "/home/apolM01-045/Music/NetCoreProyect-Incidences-02/Application/Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/skylab-102/Downloads/IncidenciasApp/Application/Application.csproj",
+        "projectUniqueName": "/home/apolM01-045/Music/NetCoreProyect-Incidences-02/Application/Application.csproj",
         "projectName": "Application",
-        "projectPath": "/home/skylab-102/Downloads/IncidenciasApp/Application/Application.csproj",
-        "packagesPath": "/home/skylab-102/.nuget/packages/",
-        "outputPath": "/home/skylab-102/Downloads/IncidenciasApp/Application/obj/",
+        "projectPath": "/home/apolM01-045/Music/NetCoreProyect-Incidences-02/Application/Application.csproj",
+        "packagesPath": "/home/apolM01-045/.nuget/packages/",
+        "outputPath": "/home/apolM01-045/Music/NetCoreProyect-Incidences-02/Application/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/skylab-102/.nuget/NuGet/NuGet.Config"
+          "/home/apolM01-045/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -26,11 +26,11 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "/home/skylab-102/Downloads/IncidenciasApp/Domain/Domain.csproj": {
-                "projectPath": "/home/skylab-102/Downloads/IncidenciasApp/Domain/Domain.csproj"
+              "/home/apolM01-045/Music/NetCoreProyect-Incidences-02/Domain/Domain.csproj": {
+                "projectPath": "/home/apolM01-045/Music/NetCoreProyect-Incidences-02/Domain/Domain.csproj"
               },
-              "/home/skylab-102/Downloads/IncidenciasApp/Persistence/Persistence.csproj": {
-                "projectPath": "/home/skylab-102/Downloads/IncidenciasApp/Persistence/Persistence.csproj"
+              "/home/apolM01-045/Music/NetCoreProyect-Incidences-02/Persistence/Persistence.csproj": {
+                "projectPath": "/home/apolM01-045/Music/NetCoreProyect-Incidences-02/Persistence/Persistence.csproj"
               }
             }
           }
@@ -64,17 +64,17 @@
         }
       }
     },
-    "/home/skylab-102/Downloads/IncidenciasApp/Domain/Domain.csproj": {
+    "/home/apolM01-045/Music/NetCoreProyect-Incidences-02/Domain/Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/skylab-102/Downloads/IncidenciasApp/Domain/Domain.csproj",
+        "projectUniqueName": "/home/apolM01-045/Music/NetCoreProyect-Incidences-02/Domain/Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "/home/skylab-102/Downloads/IncidenciasApp/Domain/Domain.csproj",
-        "packagesPath": "/home/skylab-102/.nuget/packages/",
-        "outputPath": "/home/skylab-102/Downloads/IncidenciasApp/Domain/obj/",
+        "projectPath": "/home/apolM01-045/Music/NetCoreProyect-Incidences-02/Domain/Domain.csproj",
+        "packagesPath": "/home/apolM01-045/.nuget/packages/",
+        "outputPath": "/home/apolM01-045/Music/NetCoreProyect-Incidences-02/Domain/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/skylab-102/.nuget/NuGet/NuGet.Config"
+          "/home/apolM01-045/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -131,17 +131,17 @@
         }
       }
     },
-    "/home/skylab-102/Downloads/IncidenciasApp/Persistence/Persistence.csproj": {
+    "/home/apolM01-045/Music/NetCoreProyect-Incidences-02/Persistence/Persistence.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/skylab-102/Downloads/IncidenciasApp/Persistence/Persistence.csproj",
+        "projectUniqueName": "/home/apolM01-045/Music/NetCoreProyect-Incidences-02/Persistence/Persistence.csproj",
         "projectName": "Persistence",
-        "projectPath": "/home/skylab-102/Downloads/IncidenciasApp/Persistence/Persistence.csproj",
-        "packagesPath": "/home/skylab-102/.nuget/packages/",
-        "outputPath": "/home/skylab-102/Downloads/IncidenciasApp/Persistence/obj/",
+        "projectPath": "/home/apolM01-045/Music/NetCoreProyect-Incidences-02/Persistence/Persistence.csproj",
+        "packagesPath": "/home/apolM01-045/.nuget/packages/",
+        "outputPath": "/home/apolM01-045/Music/NetCoreProyect-Incidences-02/Persistence/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/skylab-102/.nuget/NuGet/NuGet.Config"
+          "/home/apolM01-045/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -153,8 +153,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "/home/skylab-102/Downloads/IncidenciasApp/Domain/Domain.csproj": {
-                "projectPath": "/home/skylab-102/Downloads/IncidenciasApp/Domain/Domain.csproj"
+              "/home/apolM01-045/Music/NetCoreProyect-Incidences-02/Domain/Domain.csproj": {
+                "projectPath": "/home/apolM01-045/Music/NetCoreProyect-Incidences-02/Domain/Domain.csproj"
               }
             }
           }

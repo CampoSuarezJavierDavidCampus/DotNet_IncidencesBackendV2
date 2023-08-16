@@ -1,5 +1,5 @@
 namespace Domain.Entities;
-public class City{
+public class City: BaseEntity{
     public int IdCity { get; set; }
     public string? NameCity { get; set; }
 

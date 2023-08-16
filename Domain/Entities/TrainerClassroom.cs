@@ -1,5 +1,5 @@
 namespace Domain.Entities;
-public class TrainerClassroom{
+public class TrainerClassroom: BaseEntity{
     public string? IdPerTrainerFk { get; set; }   
     public Person? Person { get; set; }
 
