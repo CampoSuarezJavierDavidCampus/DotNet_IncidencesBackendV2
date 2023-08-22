@@ -5941,19 +5941,19 @@
     ]
   },
   "packageFolders": {
-    "/home/apolM01-045/.nuget/packages/": {}
+    "/home/skylab-104/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/apolM01-045/Pictures/NetCoreProyect-Incidences-02/ApiIncidences/ApiIncidences.csproj",
+      "projectUniqueName": "/home/skylab-104/Music/NetCoreProyect-Incidences-02/ApiIncidences/ApiIncidences.csproj",
       "projectName": "ApiIncidences",
-      "projectPath": "/home/apolM01-045/Pictures/NetCoreProyect-Incidences-02/ApiIncidences/ApiIncidences.csproj",
-      "packagesPath": "/home/apolM01-045/.nuget/packages/",
-      "outputPath": "/home/apolM01-045/Pictures/NetCoreProyect-Incidences-02/ApiIncidences/obj/",
+      "projectPath": "/home/skylab-104/Music/NetCoreProyect-Incidences-02/ApiIncidences/ApiIncidences.csproj",
+      "packagesPath": "/home/skylab-104/.nuget/packages/",
+      "outputPath": "/home/skylab-104/Music/NetCoreProyect-Incidences-02/ApiIncidences/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/apolM01-045/.nuget/NuGet/NuGet.Config"
+        "/home/skylab-104/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
@@ -5965,8 +5965,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "/home/apolM01-045/Pictures/NetCoreProyect-Incidences-02/Application/Application.csproj": {
-              "projectPath": "/home/apolM01-045/Pictures/NetCoreProyect-Incidences-02/Application/Application.csproj"
+            "/home/skylab-104/Music/NetCoreProyect-Incidences-02/Application/Application.csproj": {
+              "projectPath": "/home/skylab-104/Music/NetCoreProyect-Incidences-02/Application/Application.csproj"
             }
           }
         }
