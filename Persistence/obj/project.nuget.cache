@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qnM9UeHkx0cTkJwffhCaBl/WUiKoPNBnz21uld8zKtTOxEhoL2AWEsJLOpsFvbhYOi8E594aqtX8CbftbbX9cg==",
+  "dgSpecHash": "If5aWNfTytH05KuEfFM+Ug4uOqfQZklA8qdzMlFFqaVlx3vhbAOW5TPHZ2TIXPfGUxmVGVVHwMmw7h06Adwctg==",
   "success": true,
-  "projectFilePath": "/home/apolM01-045/Music/NetCoreProyect-Incidences-02/Persistence/Persistence.csproj",
+  "projectFilePath": "/home/apolM01-045/Pictures/NetCoreProyect-Incidences-02/Persistence/Persistence.csproj",
   "expectedPackageFiles": [
     "/home/apolM01-045/.nuget/packages/fluentvalidation/11.5.1/fluentvalidation.11.5.1.nupkg.sha512",
     "/home/apolM01-045/.nuget/packages/fluentvalidation.aspnetcore/11.3.0/fluentvalidation.aspnetcore.11.3.0.nupkg.sha512",

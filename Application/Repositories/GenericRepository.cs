@@ -5,7 +5,7 @@ using Microsoft.EntityFrameworkCore;
 using Persistence;
 
 namespace Application.Repositories;
-public class GenericRepository<T> : IGenericRepository<T> where T : BaseEntity
+public class GenericRepository<T> where T : BaseEntity
 {
     private readonly ApiIncidencesContext _context;
     public GenericRepository(ApiIncidencesContext context)=>_context = context;

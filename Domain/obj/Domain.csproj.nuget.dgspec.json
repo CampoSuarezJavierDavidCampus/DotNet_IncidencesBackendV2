@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/apolM01-045/Music/NetCoreProyect-Incidences-02/Domain/Domain.csproj": {}
+    "/home/apolM01-045/Pictures/NetCoreProyect-Incidences-02/Domain/Domain.csproj": {}
   },
   "projects": {
-    "/home/apolM01-045/Music/NetCoreProyect-Incidences-02/Domain/Domain.csproj": {
+    "/home/apolM01-045/Pictures/NetCoreProyect-Incidences-02/Domain/Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/apolM01-045/Music/NetCoreProyect-Incidences-02/Domain/Domain.csproj",
+        "projectUniqueName": "/home/apolM01-045/Pictures/NetCoreProyect-Incidences-02/Domain/Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "/home/apolM01-045/Music/NetCoreProyect-Incidences-02/Domain/Domain.csproj",
+        "projectPath": "/home/apolM01-045/Pictures/NetCoreProyect-Incidences-02/Domain/Domain.csproj",
         "packagesPath": "/home/apolM01-045/.nuget/packages/",
-        "outputPath": "/home/apolM01-045/Music/NetCoreProyect-Incidences-02/Domain/obj/",
+        "outputPath": "/home/apolM01-045/Pictures/NetCoreProyect-Incidences-02/Domain/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/apolM01-045/.nuget/NuGet/NuGet.Config"

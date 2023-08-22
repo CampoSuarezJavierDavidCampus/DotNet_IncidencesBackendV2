@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/apolM01-045/Music/NetCoreProyect-Incidences-02/ApiIncidences/ApiIncidences.csproj": {}
+    "/home/apolM01-045/Pictures/NetCoreProyect-Incidences-02/ApiIncidences/ApiIncidences.csproj": {}
   },
   "projects": {
-    "/home/apolM01-045/Music/NetCoreProyect-Incidences-02/ApiIncidences/ApiIncidences.csproj": {
+    "/home/apolM01-045/Pictures/NetCoreProyect-Incidences-02/ApiIncidences/ApiIncidences.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/apolM01-045/Music/NetCoreProyect-Incidences-02/ApiIncidences/ApiIncidences.csproj",
+        "projectUniqueName": "/home/apolM01-045/Pictures/NetCoreProyect-Incidences-02/ApiIncidences/ApiIncidences.csproj",
         "projectName": "ApiIncidences",
-        "projectPath": "/home/apolM01-045/Music/NetCoreProyect-Incidences-02/ApiIncidences/ApiIncidences.csproj",
+        "projectPath": "/home/apolM01-045/Pictures/NetCoreProyect-Incidences-02/ApiIncidences/ApiIncidences.csproj",
         "packagesPath": "/home/apolM01-045/.nuget/packages/",
-        "outputPath": "/home/apolM01-045/Music/NetCoreProyect-Incidences-02/ApiIncidences/obj/",
+        "outputPath": "/home/apolM01-045/Pictures/NetCoreProyect-Incidences-02/ApiIncidences/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/apolM01-045/.nuget/NuGet/NuGet.Config"
@@ -26,8 +26,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "/home/apolM01-045/Music/NetCoreProyect-Incidences-02/Application/Application.csproj": {
-                "projectPath": "/home/apolM01-045/Music/NetCoreProyect-Incidences-02/Application/Application.csproj"
+              "/home/apolM01-045/Pictures/NetCoreProyect-Incidences-02/Application/Application.csproj": {
+                "projectPath": "/home/apolM01-045/Pictures/NetCoreProyect-Incidences-02/Application/Application.csproj"
               }
             }
           }
@@ -84,14 +84,14 @@
         }
       }
     },
-    "/home/apolM01-045/Music/NetCoreProyect-Incidences-02/Application/Application.csproj": {
+    "/home/apolM01-045/Pictures/NetCoreProyect-Incidences-02/Application/Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/apolM01-045/Music/NetCoreProyect-Incidences-02/Application/Application.csproj",
+        "projectUniqueName": "/home/apolM01-045/Pictures/NetCoreProyect-Incidences-02/Application/Application.csproj",
         "projectName": "Application",
-        "projectPath": "/home/apolM01-045/Music/NetCoreProyect-Incidences-02/Application/Application.csproj",
+        "projectPath": "/home/apolM01-045/Pictures/NetCoreProyect-Incidences-02/Application/Application.csproj",
         "packagesPath": "/home/apolM01-045/.nuget/packages/",
-        "outputPath": "/home/apolM01-045/Music/NetCoreProyect-Incidences-02/Application/obj/",
+        "outputPath": "/home/apolM01-045/Pictures/NetCoreProyect-Incidences-02/Application/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/apolM01-045/.nuget/NuGet/NuGet.Config"
@@ -106,11 +106,11 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "/home/apolM01-045/Music/NetCoreProyect-Incidences-02/Domain/Domain.csproj": {
-                "projectPath": "/home/apolM01-045/Music/NetCoreProyect-Incidences-02/Domain/Domain.csproj"
+              "/home/apolM01-045/Pictures/NetCoreProyect-Incidences-02/Domain/Domain.csproj": {
+                "projectPath": "/home/apolM01-045/Pictures/NetCoreProyect-Incidences-02/Domain/Domain.csproj"
               },
-              "/home/apolM01-045/Music/NetCoreProyect-Incidences-02/Persistence/Persistence.csproj": {
-                "projectPath": "/home/apolM01-045/Music/NetCoreProyect-Incidences-02/Persistence/Persistence.csproj"
+              "/home/apolM01-045/Pictures/NetCoreProyect-Incidences-02/Persistence/Persistence.csproj": {
+                "projectPath": "/home/apolM01-045/Pictures/NetCoreProyect-Incidences-02/Persistence/Persistence.csproj"
               }
             }
           }
@@ -144,14 +144,14 @@
         }
       }
     },
-    "/home/apolM01-045/Music/NetCoreProyect-Incidences-02/Domain/Domain.csproj": {
+    "/home/apolM01-045/Pictures/NetCoreProyect-Incidences-02/Domain/Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/apolM01-045/Music/NetCoreProyect-Incidences-02/Domain/Domain.csproj",
+        "projectUniqueName": "/home/apolM01-045/Pictures/NetCoreProyect-Incidences-02/Domain/Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "/home/apolM01-045/Music/NetCoreProyect-Incidences-02/Domain/Domain.csproj",
+        "projectPath": "/home/apolM01-045/Pictures/NetCoreProyect-Incidences-02/Domain/Domain.csproj",
         "packagesPath": "/home/apolM01-045/.nuget/packages/",
-        "outputPath": "/home/apolM01-045/Music/NetCoreProyect-Incidences-02/Domain/obj/",
+        "outputPath": "/home/apolM01-045/Pictures/NetCoreProyect-Incidences-02/Domain/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/apolM01-045/.nuget/NuGet/NuGet.Config"
@@ -211,14 +211,14 @@
         }
       }
     },
-    "/home/apolM01-045/Music/NetCoreProyect-Incidences-02/Persistence/Persistence.csproj": {
+    "/home/apolM01-045/Pictures/NetCoreProyect-Incidences-02/Persistence/Persistence.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/apolM01-045/Music/NetCoreProyect-Incidences-02/Persistence/Persistence.csproj",
+        "projectUniqueName": "/home/apolM01-045/Pictures/NetCoreProyect-Incidences-02/Persistence/Persistence.csproj",
         "projectName": "Persistence",
-        "projectPath": "/home/apolM01-045/Music/NetCoreProyect-Incidences-02/Persistence/Persistence.csproj",
+        "projectPath": "/home/apolM01-045/Pictures/NetCoreProyect-Incidences-02/Persistence/Persistence.csproj",
         "packagesPath": "/home/apolM01-045/.nuget/packages/",
-        "outputPath": "/home/apolM01-045/Music/NetCoreProyect-Incidences-02/Persistence/obj/",
+        "outputPath": "/home/apolM01-045/Pictures/NetCoreProyect-Incidences-02/Persistence/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/apolM01-045/.nuget/NuGet/NuGet.Config"
@@ -233,8 +233,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "/home/apolM01-045/Music/NetCoreProyect-Incidences-02/Domain/Domain.csproj": {
-                "projectPath": "/home/apolM01-045/Music/NetCoreProyect-Incidences-02/Domain/Domain.csproj"
+              "/home/apolM01-045/Pictures/NetCoreProyect-Incidences-02/Domain/Domain.csproj": {
+                "projectPath": "/home/apolM01-045/Pictures/NetCoreProyect-Incidences-02/Domain/Domain.csproj"
               }
             }
           }
