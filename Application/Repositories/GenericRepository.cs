@@ -5,7 +5,7 @@ using Microsoft.EntityFrameworkCore;
 using Persistence;
 
 namespace Application.Repositories;
-public class GenericRepository<T> where T : BaseEntity
+public class GenericRepository<T> where T : class
 {
     private readonly ApiIncidencesContext _context;
     public GenericRepository(ApiIncidencesContext context)=>_context = context;
@@ -19,6 +19,7 @@ public class GenericRepository<T> where T : BaseEntity
     public virtual async Task<IEnumerable<T>> GetAllAsync()=> await _context.Set<T>().ToListAsync();
 
     public virtual async Task<T> GetByIdAsync(string id)=>(await _context.Set<T>().FindAsync(id))!;
+    public virtual async Task<T> GetByIdAsync(int id)=>(await _context.Set<T>().FindAsync(id))!;
 
     public virtual void Remove(T entity)=>_context.Remove(entity);
 

@@ -1,3 +1,6 @@
+using Application.UnitOfWork;
+using Domain.Interfaces;
+
 namespace ApiIncidences.Extensions;
 
 static public class ApplicationServiceExtension{
@@ -8,4 +11,8 @@ static public class ApplicationServiceExtension{
                 .AllowAnyHeader();
         });
     });
+
+    public static void AddApplicationServices(this IServiceCollection services){
+        services.AddScoped<IUnitOfWork, UnitOfWork>();
+    }
 }

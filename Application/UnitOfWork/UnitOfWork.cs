@@ -39,6 +39,7 @@ namespace Application.UnitOfWork
         public UnitOfWork(ApiIncidencesContext context)=>_Context = context;
 
         public int Save()=>_Context.SaveChanges();
+        public async Task<int> SaveAsync()=> await _Context.SaveChangesAsync();
         public void Dispose() => _Context.Dispose();
     }
 }

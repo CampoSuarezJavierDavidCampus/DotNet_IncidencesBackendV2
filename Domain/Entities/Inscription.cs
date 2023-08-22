@@ -1,5 +1,5 @@
 namespace Domain.Entities;
-public class Inscription: BaseEntity{
+public class Inscription{
     public int IdInscription { get; set; }
 
     public string? IdPersonFk { get; set; }

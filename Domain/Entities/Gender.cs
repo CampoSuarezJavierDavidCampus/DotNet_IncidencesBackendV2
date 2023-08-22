@@ -1,5 +1,5 @@
 namespace Domain.Entities;
-public class Gender: BaseEntity{
+public class Gender{
     public int IdGender { get; set; }
     public string? NameGender { get; set; }
     

@@ -10,3 +10,15 @@
 /home/skylab-102/Downloads/IncidenciasApp/Domain/obj/Debug/net7.0/refint/Domain.dll
 /home/skylab-102/Downloads/IncidenciasApp/Domain/obj/Debug/net7.0/Domain.pdb
 /home/skylab-102/Downloads/IncidenciasApp/Domain/obj/Debug/net7.0/ref/Domain.dll
+/home/apolM01-045/Pictures/NetCoreProyect-Incidences-02/Domain/bin/Debug/net7.0/Domain.deps.json
+/home/apolM01-045/Pictures/NetCoreProyect-Incidences-02/Domain/bin/Debug/net7.0/Domain.dll
+/home/apolM01-045/Pictures/NetCoreProyect-Incidences-02/Domain/bin/Debug/net7.0/Domain.pdb
+/home/apolM01-045/Pictures/NetCoreProyect-Incidences-02/Domain/obj/Debug/net7.0/Domain.csproj.AssemblyReference.cache
+/home/apolM01-045/Pictures/NetCoreProyect-Incidences-02/Domain/obj/Debug/net7.0/Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/apolM01-045/Pictures/NetCoreProyect-Incidences-02/Domain/obj/Debug/net7.0/Domain.AssemblyInfoInputs.cache
+/home/apolM01-045/Pictures/NetCoreProyect-Incidences-02/Domain/obj/Debug/net7.0/Domain.AssemblyInfo.cs
+/home/apolM01-045/Pictures/NetCoreProyect-Incidences-02/Domain/obj/Debug/net7.0/Domain.csproj.CoreCompileInputs.cache
+/home/apolM01-045/Pictures/NetCoreProyect-Incidences-02/Domain/obj/Debug/net7.0/Domain.dll
+/home/apolM01-045/Pictures/NetCoreProyect-Incidences-02/Domain/obj/Debug/net7.0/refint/Domain.dll
+/home/apolM01-045/Pictures/NetCoreProyect-Incidences-02/Domain/obj/Debug/net7.0/Domain.pdb
+/home/apolM01-045/Pictures/NetCoreProyect-Incidences-02/Domain/obj/Debug/net7.0/ref/Domain.dll
