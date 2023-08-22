@@ -144,3 +144,5 @@
 /home/apolM01-045/Pictures/NetCoreProyect-Incidences-02/ApiIncidences/obj/Debug/net7.0/ApiIncidences.pdb
 /home/apolM01-045/Pictures/NetCoreProyect-Incidences-02/ApiIncidences/obj/Debug/net7.0/ApiIncidences.genruntimeconfig.cache
 /home/apolM01-045/Pictures/NetCoreProyect-Incidences-02/ApiIncidences/obj/Debug/net7.0/ref/ApiIncidences.dll
+/home/apolM01-045/Pictures/NetCoreProyect-Incidences-02/ApiIncidences/bin/Debug/net7.0/AutoMapper.dll
+/home/apolM01-045/Pictures/NetCoreProyect-Incidences-02/ApiIncidences/bin/Debug/net7.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
