@@ -5235,19 +5235,19 @@
     ]
   },
   "packageFolders": {
-    "/home/skylab-104/.nuget/packages/": {}
+    "/home/apolM01-045/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/skylab-104/Music/NetCoreProyect-Incidences-02/Application/Application.csproj",
+      "projectUniqueName": "/home/apolM01-045/Music/NetCoreProyect-Incidences-02/Application/Application.csproj",
       "projectName": "Application",
-      "projectPath": "/home/skylab-104/Music/NetCoreProyect-Incidences-02/Application/Application.csproj",
-      "packagesPath": "/home/skylab-104/.nuget/packages/",
-      "outputPath": "/home/skylab-104/Music/NetCoreProyect-Incidences-02/Application/obj/",
+      "projectPath": "/home/apolM01-045/Music/NetCoreProyect-Incidences-02/Application/Application.csproj",
+      "packagesPath": "/home/apolM01-045/.nuget/packages/",
+      "outputPath": "/home/apolM01-045/Music/NetCoreProyect-Incidences-02/Application/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/skylab-104/.nuget/NuGet/NuGet.Config"
+        "/home/apolM01-045/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
@@ -5259,11 +5259,11 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "/home/skylab-104/Music/NetCoreProyect-Incidences-02/Domain/Domain.csproj": {
-              "projectPath": "/home/skylab-104/Music/NetCoreProyect-Incidences-02/Domain/Domain.csproj"
+            "/home/apolM01-045/Music/NetCoreProyect-Incidences-02/Domain/Domain.csproj": {
+              "projectPath": "/home/apolM01-045/Music/NetCoreProyect-Incidences-02/Domain/Domain.csproj"
             },
-            "/home/skylab-104/Music/NetCoreProyect-Incidences-02/Persistence/Persistence.csproj": {
-              "projectPath": "/home/skylab-104/Music/NetCoreProyect-Incidences-02/Persistence/Persistence.csproj"
+            "/home/apolM01-045/Music/NetCoreProyect-Incidences-02/Persistence/Persistence.csproj": {
+              "projectPath": "/home/apolM01-045/Music/NetCoreProyect-Incidences-02/Persistence/Persistence.csproj"
             }
           }
         }

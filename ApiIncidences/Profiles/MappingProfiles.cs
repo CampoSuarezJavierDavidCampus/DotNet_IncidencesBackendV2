@@ -6,12 +6,21 @@ namespace ApiIncidences.Profiles;
 
 public class MappingProfiles: Profile{
     public MappingProfiles(){
-        CreateMap<Country, CountryDto>()
-            .ReverseMap()
+        CreateMap<CountriesDto, Country>()
             .ForMember(c => c.IdCountry, opt => opt.MapFrom(src => src.PaisId))
-            .ForMember(c => c.IdCountry, opt => opt.MapFrom(src => src.Nombre))
-            .ForMember(c => c.Departments, opt => opt.MapFrom(src => src.Departamentos));
-        CreateMap<Department, DepartmentXCountryDto>().ReverseMap();        
+            .ForMember(c => c.NameCountry, opt => opt.MapFrom(src => src.Nombre))
+            .ReverseMap();
+
+        CreateMap<CountryDto, Country>()
+            .ForMember(c => c.IdCountry, opt => opt.MapFrom(src => src.PaisId))
+            .ForMember(c => c.NameCountry, opt => opt.MapFrom(src => src.Nombre))
+            .ForMember(c => c.Departments, opt => opt.MapFrom(src => src.Departamentos))
+            .ReverseMap();
+
+
+
+
+        CreateMap<Department, DepartmentsDto>().ReverseMap();        
         CreateMap<Department, DepartmentDto>().ReverseMap();        
     }
 }
